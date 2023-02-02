@@ -1,0 +1,3039 @@
+{
+    "nodes": [
+        {
+            "label": "34.0",
+            "x": 336.3730773925781,
+            "y": 490.0702819824219,
+            "id": "34.0",
+            "attributes": {
+                "Modularity Class": "3",
+                "Degree": "6",
+                "Visible Label": "Judge"
+            },
+            "color": "rgb(255,92,129)",
+            "size": 35.71428680419922
+        },
+        {
+            "label": "30.0",
+            "x": -63.47776794433594,
+            "y": 725.9147338867188,
+            "id": "30.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "2",
+                "Visible Label": "Perpetue"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "45.0",
+            "x": 167.86337280273438,
+            "y": 377.48089599609375,
+            "id": "45.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "1",
+                "Visible Label": "Gribier"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 25.0
+        },
+        {
+            "label": "60.0",
+            "x": -470.3091125488281,
+            "y": -812.2525634765625,
+            "id": "60.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "9",
+                "Visible Label": "Prouvaire"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 42.14285659790039
+        },
+        {
+            "label": "12.0",
+            "x": -107.36419677734375,
+            "y": 618.0502319335938,
+            "id": "12.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "2",
+                "Visible Label": "Marguerite"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "19.0",
+            "x": -340.4252014160156,
+            "y": 1047.41015625,
+            "id": "19.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "7",
+                "Visible Label": "Blacheville"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "11.0",
+            "x": -19.088266372680664,
+            "y": 103.60115051269531,
+            "id": "11.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "36",
+                "Visible Label": "Valjean"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 100.0
+        },
+        {
+            "label": "44.0",
+            "x": 132.535400390625,
+            "y": 312.4450988769531,
+            "id": "44.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "2",
+                "Visible Label": "MotherInnocent"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "38.0",
+            "x": 451.83184814453125,
+            "y": 539.1046142578125,
+            "id": "38.0",
+            "attributes": {
+                "Modularity Class": "3",
+                "Degree": "6",
+                "Visible Label": "Cochepaille"
+            },
+            "color": "rgb(255,92,129)",
+            "size": 35.71428680419922
+        },
+        {
+            "label": "63.0",
+            "x": -468.6534423828125,
+            "y": -705.1246337890625,
+            "id": "63.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "12",
+                "Visible Label": "Bahorel"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 48.57143020629883
+        },
+        {
+            "label": "40.0",
+            "x": -713.962158203125,
+            "y": 340.1142578125,
+            "id": "40.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "1",
+                "Visible Label": "Boulatruelle"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 25.0
+        },
+        {
+            "label": "3.0",
+            "x": 514.2879638671875,
+            "y": 113.61152648925781,
+            "id": "3.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "3",
+                "Visible Label": "MmeMagloire"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 29.28571319580078
+        },
+        {
+            "label": "20.0",
+            "x": -325.5299377441406,
+            "y": 994.6574096679688,
+            "id": "20.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "7",
+                "Visible Label": "Favourite"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "35.0",
+            "x": 361.9930114746094,
+            "y": 443.9557800292969,
+            "id": "35.0",
+            "attributes": {
+                "Modularity Class": "3",
+                "Degree": "6",
+                "Visible Label": "Champmathieu"
+            },
+            "color": "rgb(255,92,129)",
+            "size": 35.71428680419922
+        },
+        {
+            "label": "39.0",
+            "x": 251.64768981933594,
+            "y": -371.44512939453125,
+            "id": "39.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "3",
+                "Visible Label": "Pontmercy"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 29.28571319580078
+        },
+        {
+            "label": "0.0",
+            "x": 603.5519409179688,
+            "y": 116.9662094116211,
+            "id": "0.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "10",
+                "Visible Label": "Myriel"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 44.28571319580078
+        },
+        {
+            "label": "66.0",
+            "x": -375.2674865722656,
+            "y": -896.7352294921875,
+            "id": "66.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "10",
+                "Visible Label": "Grantaire"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 44.28571319580078
+        },
+        {
+            "label": "1.0",
+            "x": 991.1845092773438,
+            "y": 93.74028778076172,
+            "id": "1.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "1",
+                "Visible Label": "Napoleon"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 25.0
+        },
+        {
+            "label": "7.0",
+            "x": 990.3432006835938,
+            "y": 169.92926025390625,
+            "id": "7.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "1",
+                "Visible Label": "Cravatte"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 25.0
+        },
+        {
+            "label": "76.0",
+            "x": -468.4042053222656,
+            "y": -1009.8106689453125,
+            "id": "76.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "7",
+                "Visible Label": "MmeHucheloup"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "62.0",
+            "x": -359.75604248046875,
+            "y": -599.4534301757812,
+            "id": "62.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "13",
+                "Visible Label": "Courfeyrac"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 50.71428680419922
+        },
+        {
+            "label": "50.0",
+            "x": 156.1671600341797,
+            "y": -141.28555297851562,
+            "id": "50.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "2",
+                "Visible Label": "Magnon"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "47.0",
+            "x": -118.36009979248047,
+            "y": -1107.62744140625,
+            "id": "47.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "2",
+                "Visible Label": "MmeBurgon"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "37.0",
+            "x": 445.6477355957031,
+            "y": 476.60797119140625,
+            "id": "37.0",
+            "attributes": {
+                "Modularity Class": "3",
+                "Degree": "6",
+                "Visible Label": "Chenildieu"
+            },
+            "color": "rgb(255,92,129)",
+            "size": 35.71428680419922
+        },
+        {
+            "label": "41.0",
+            "x": -474.7386169433594,
+            "y": -145.5310821533203,
+            "id": "41.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "11",
+                "Visible Label": "Eponine"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 46.42857360839844
+        },
+        {
+            "label": "57.0",
+            "x": -645.5033569335938,
+            "y": -715.7593994140625,
+            "id": "57.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "11",
+                "Visible Label": "Mabeuf"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 46.42857360839844
+        },
+        {
+            "label": "49.0",
+            "x": -12.781033515930176,
+            "y": -244.08181762695312,
+            "id": "49.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "7",
+                "Visible Label": "Gillenormand"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "65.0",
+            "x": -405.0100402832031,
+            "y": -738.6219482421875,
+            "id": "65.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "12",
+                "Visible Label": "Joly"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 48.57143020629883
+        },
+        {
+            "label": "2.0",
+            "x": 488.4445495605469,
+            "y": 112.80680847167969,
+            "id": "2.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "3",
+                "Visible Label": "MlleBaptistine"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 29.28571319580078
+        },
+        {
+            "label": "9.0",
+            "x": 924.76806640625,
+            "y": 97.23103332519531,
+            "id": "9.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "1",
+                "Visible Label": "OldMan"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 25.0
+        },
+        {
+            "label": "6.0",
+            "x": 947.2479248046875,
+            "y": 30.632617950439453,
+            "id": "6.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "1",
+                "Visible Label": "Champtercier"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 25.0
+        },
+        {
+            "label": "26.0",
+            "x": -67.59980773925781,
+            "y": -44.2384033203125,
+            "id": "26.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "11",
+                "Visible Label": "Cosette"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 46.42857360839844
+        },
+        {
+            "label": "59.0",
+            "x": -402.84600830078125,
+            "y": -616.6432495117188,
+            "id": "59.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "11",
+                "Visible Label": "Combeferre"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 46.42857360839844
+        },
+        {
+            "label": "4.0",
+            "x": 923.00439453125,
+            "y": 171.50949096679688,
+            "id": "4.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "1",
+                "Visible Label": "CountessDeLo"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 25.0
+        },
+        {
+            "label": "15.0",
+            "x": 357.7210998535156,
+            "y": 9.971435546875,
+            "id": "15.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "1",
+                "Visible Label": "Gervais"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 25.0
+        },
+        {
+            "label": "27.0",
+            "x": -175.5458984375,
+            "y": 120.95355987548828,
+            "id": "27.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "17",
+                "Visible Label": "Javert"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 59.28571319580078
+        },
+        {
+            "label": "28.0",
+            "x": 63.70912551879883,
+            "y": 248.89535522460938,
+            "id": "28.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "4",
+                "Visible Label": "Fauchelevent"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 31.428571701049805
+        },
+        {
+            "label": "68.0",
+            "x": -555.303955078125,
+            "y": 46.69913101196289,
+            "id": "68.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "10",
+                "Visible Label": "Gueulemer"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 44.28571319580078
+        },
+        {
+            "label": "36.0",
+            "x": 394.1172180175781,
+            "y": 563.0797119140625,
+            "id": "36.0",
+            "attributes": {
+                "Modularity Class": "3",
+                "Degree": "6",
+                "Visible Label": "Brevet"
+            },
+            "color": "rgb(255,92,129)",
+            "size": 35.71428680419922
+        },
+        {
+            "label": "14.0",
+            "x": 92.1499252319336,
+            "y": 418.55328369140625,
+            "id": "14.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "1",
+                "Visible Label": "Isabeau"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 25.0
+        },
+        {
+            "label": "43.0",
+            "x": 121.61109924316406,
+            "y": 103.17349243164062,
+            "id": "43.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "3",
+                "Visible Label": "Woman2"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 29.28571319580078
+        },
+        {
+            "label": "24.0",
+            "x": -275.6165771484375,
+            "y": 141.2150421142578,
+            "id": "24.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "11",
+                "Visible Label": "MmeThenardier"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 46.42857360839844
+        },
+        {
+            "label": "51.0",
+            "x": 57.71731185913086,
+            "y": -268.6016845703125,
+            "id": "51.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "7",
+                "Visible Label": "MlleGillenormand"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "29.0",
+            "x": 252.5784912109375,
+            "y": 555.594970703125,
+            "id": "29.0",
+            "attributes": {
+                "Modularity Class": "3",
+                "Degree": "8",
+                "Visible Label": "Bamatabois"
+            },
+            "color": "rgb(255,92,129)",
+            "size": 40.0
+        },
+        {
+            "label": "22.0",
+            "x": -230.13482666015625,
+            "y": 1013.6093139648438,
+            "id": "22.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "7",
+                "Visible Label": "Zephine"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "5.0",
+            "x": 947.5842895507812,
+            "y": 235.34925842285156,
+            "id": "5.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "1",
+                "Visible Label": "Geborand"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 25.0
+        },
+        {
+            "label": "54.0",
+            "x": 160.9852752685547,
+            "y": -330.97711181640625,
+            "id": "54.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "4",
+                "Visible Label": "LtGillenormand"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 31.428571701049805
+        },
+        {
+            "label": "46.0",
+            "x": -40.12416076660156,
+            "y": -1420.8079833984375,
+            "id": "46.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "1",
+                "Visible Label": "Jondrette"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 25.0
+        },
+        {
+            "label": "75.0",
+            "x": -633.7238159179688,
+            "y": -31.35344696044922,
+            "id": "75.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "7",
+                "Visible Label": "Brujon"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "17.0",
+            "x": -302.9920349121094,
+            "y": 1080.802001953125,
+            "id": "17.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "7",
+                "Visible Label": "Listolier"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "21.0",
+            "x": -277.48065185546875,
+            "y": 1002.1524658203125,
+            "id": "21.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "7",
+                "Visible Label": "Dahlia"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "33.0",
+            "x": 109.25218963623047,
+            "y": 212.9152374267578,
+            "id": "33.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "2",
+                "Visible Label": "Woman1"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "48.0",
+            "x": -255.9414520263672,
+            "y": -618.392578125,
+            "id": "48.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "22",
+                "Visible Label": "Gavroche"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 70.0
+        },
+        {
+            "label": "16.0",
+            "x": -280.79644775390625,
+            "y": 919.9553833007812,
+            "id": "16.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "9",
+                "Visible Label": "Tholomyes"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 42.14285659790039
+        },
+        {
+            "label": "53.0",
+            "x": 388.17486572265625,
+            "y": -528.8101806640625,
+            "id": "53.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "1",
+                "Visible Label": "MlleVaubois"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 25.0
+        },
+        {
+            "label": "61.0",
+            "x": -342.2916564941406,
+            "y": -744.513916015625,
+            "id": "61.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "11",
+                "Visible Label": "Feuilly"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 46.42857360839844
+        },
+        {
+            "label": "74.0",
+            "x": -90.16517639160156,
+            "y": -944.1027221679688,
+            "id": "74.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "2",
+                "Visible Label": "Child2"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "42.0",
+            "x": -487.8382873535156,
+            "y": -35.73611068725586,
+            "id": "42.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "3",
+                "Visible Label": "Anzelma"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 29.28571319580078
+        },
+        {
+            "label": "8.0",
+            "x": 787.2212524414062,
+            "y": 119.97968292236328,
+            "id": "8.0",
+            "attributes": {
+                "Modularity Class": "0",
+                "Degree": "1",
+                "Visible Label": "Count"
+            },
+            "color": "rgb(0,202,255)",
+            "size": 25.0
+        },
+        {
+            "label": "58.0",
+            "x": -338.1771240234375,
+            "y": -522.988525390625,
+            "id": "58.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "15",
+                "Visible Label": "Enjolras"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 55.0
+        },
+        {
+            "label": "67.0",
+            "x": -789.6427612304688,
+            "y": -806.2302856445312,
+            "id": "67.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "1",
+                "Visible Label": "MotherPlutarch"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 25.0
+        },
+        {
+            "label": "70.0",
+            "x": -559.8750610351562,
+            "y": 137.5747833251953,
+            "id": "70.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "10",
+                "Visible Label": "Claquesous"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 44.28571319580078
+        },
+        {
+            "label": "18.0",
+            "x": -254.4320526123047,
+            "y": 1070.785888671875,
+            "id": "18.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "7",
+                "Visible Label": "Fameuil"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 37.85714340209961
+        },
+        {
+            "label": "64.0",
+            "x": -348.1551208496094,
+            "y": -661.2608032226562,
+            "id": "64.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "13",
+                "Visible Label": "Bossuet"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 50.71428680419922
+        },
+        {
+            "label": "10.0",
+            "x": 331.51934814453125,
+            "y": 153.38804626464844,
+            "id": "10.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "1",
+                "Visible Label": "Labarre"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 25.0
+        },
+        {
+            "label": "31.0",
+            "x": -93.57676696777344,
+            "y": 494.6383361816406,
+            "id": "31.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "4",
+                "Visible Label": "Simplice"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 31.428571701049805
+        },
+        {
+            "label": "32.0",
+            "x": 313.88970947265625,
+            "y": 215.68020629882812,
+            "id": "32.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "1",
+                "Visible Label": "Scaufflaire"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 25.0
+        },
+        {
+            "label": "52.0",
+            "x": 436.9289855957031,
+            "y": -471.2094421386719,
+            "id": "52.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "2",
+                "Visible Label": "MmePontmercy"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "73.0",
+            "x": -65.31495666503906,
+            "y": -924.4680786132812,
+            "id": "73.0",
+            "attributes": {
+                "Modularity Class": "5",
+                "Degree": "2",
+                "Visible Label": "Child1"
+            },
+            "color": "rgb(95,198,19)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "72.0",
+            "x": 122.46964263916016,
+            "y": -12.518437385559082,
+            "id": "72.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "3",
+                "Visible Label": "Toussaint"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 29.28571319580078
+        },
+        {
+            "label": "55.0",
+            "x": -160.83810424804688,
+            "y": -262.69586181640625,
+            "id": "55.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "19",
+                "Visible Label": "Marius"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 63.57143020629883
+        },
+        {
+            "label": "56.0",
+            "x": 157.57281494140625,
+            "y": -481.08795166015625,
+            "id": "56.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "2",
+                "Visible Label": "BaronessT"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 27.14285659790039
+        },
+        {
+            "label": "25.0",
+            "x": -341.8334045410156,
+            "y": 73.85987854003906,
+            "id": "25.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "16",
+                "Visible Label": "Thenardier"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 57.14285659790039
+        },
+        {
+            "label": "23.0",
+            "x": -206.22274780273438,
+            "y": 681.34033203125,
+            "id": "23.0",
+            "attributes": {
+                "Modularity Class": "1",
+                "Degree": "15",
+                "Visible Label": "Fantine"
+            },
+            "color": "rgb(46,144,114)",
+            "size": 55.0
+        },
+        {
+            "label": "69.0",
+            "x": -494.4726257324219,
+            "y": 74.78644561767578,
+            "id": "69.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "10",
+                "Visible Label": "Babet"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 44.28571319580078
+        },
+        {
+            "label": "71.0",
+            "x": -678.52734375,
+            "y": 60.7151985168457,
+            "id": "71.0",
+            "attributes": {
+                "Modularity Class": "2",
+                "Degree": "9",
+                "Visible Label": "Montparnasse"
+            },
+            "color": "rgb(234,134,21)",
+            "size": 42.14285659790039
+        },
+        {
+            "label": "13.0",
+            "x": 336.9127502441406,
+            "y": 83.53366088867188,
+            "id": "13.0",
+            "attributes": {
+                "Modularity Class": "4",
+                "Degree": "1",
+                "Visible Label": "MmeDeR"
+            },
+            "color": "rgb(198,134,233)",
+            "size": 25.0
+        }
+    ],
+    "edges": [
+        {
+            "source": "66.0",
+            "target": "64.0",
+            "id": "195",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 3.0
+        },
+        {
+            "source": "65.0",
+            "target": "48.0",
+            "id": "187",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 3.0
+        },
+        {
+            "source": "22.0",
+            "target": "21.0",
+            "id": "38",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "55.0",
+            "target": "11.0",
+            "id": "131",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 19.0
+        },
+        {
+            "source": "71.0",
+            "target": "70.0",
+            "id": "229",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 2.0
+        },
+        {
+            "source": "4.0",
+            "target": "0.0",
+            "id": "4",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 1.0
+        },
+        {
+            "source": "37.0",
+            "target": "11.0",
+            "id": "87",
+            "attributes": {},
+            "color": "rgb(226,113,181)",
+            "size": 2.0
+        },
+        {
+            "source": "61.0",
+            "target": "48.0",
+            "id": "153",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "61.0",
+            "target": "57.0",
+            "id": "157",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "17.0",
+            "target": "16.0",
+            "id": "18",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "23.0",
+            "target": "20.0",
+            "id": "43",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "61.0",
+            "target": "58.0",
+            "id": "154",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 6.0
+        },
+        {
+            "source": "68.0",
+            "target": "27.0",
+            "id": "208",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "27.0",
+            "target": "23.0",
+            "id": "58",
+            "attributes": {},
+            "color": "rgb(122,139,173)",
+            "size": 5.0
+        },
+        {
+            "source": "6.0",
+            "target": "0.0",
+            "id": "6",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 1.0
+        },
+        {
+            "source": "15.0",
+            "target": "11.0",
+            "id": "17",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "59.0",
+            "target": "55.0",
+            "id": "147",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 5.0
+        },
+        {
+            "source": "62.0",
+            "target": "59.0",
+            "id": "161",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 13.0
+        },
+        {
+            "source": "55.0",
+            "target": "54.0",
+            "id": "129",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "21.0",
+            "target": "19.0",
+            "id": "31",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "23.0",
+            "target": "17.0",
+            "id": "40",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "75.0",
+            "target": "68.0",
+            "id": "241",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 3.0
+        },
+        {
+            "source": "59.0",
+            "target": "57.0",
+            "id": "149",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "19.0",
+            "target": "16.0",
+            "id": "21",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "9.0",
+            "target": "0.0",
+            "id": "9",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 1.0
+        },
+        {
+            "source": "7.0",
+            "target": "0.0",
+            "id": "7",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 1.0
+        },
+        {
+            "source": "66.0",
+            "target": "65.0",
+            "id": "199",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "69.0",
+            "target": "48.0",
+            "id": "216",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "27.0",
+            "target": "11.0",
+            "id": "57",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 17.0
+        },
+        {
+            "source": "60.0",
+            "target": "48.0",
+            "id": "150",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "11.0",
+            "target": "10.0",
+            "id": "10",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "34.0",
+            "target": "11.0",
+            "id": "75",
+            "attributes": {},
+            "color": "rgb(226,113,181)",
+            "size": 3.0
+        },
+        {
+            "source": "63.0",
+            "target": "60.0",
+            "id": "173",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "68.0",
+            "target": "41.0",
+            "id": "210",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "75.0",
+            "target": "71.0",
+            "id": "246",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "31.0",
+            "target": "23.0",
+            "id": "70",
+            "attributes": {},
+            "color": "rgb(122,139,173)",
+            "size": 2.0
+        },
+        {
+            "source": "75.0",
+            "target": "41.0",
+            "id": "244",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "68.0",
+            "target": "25.0",
+            "id": "205",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 5.0
+        },
+        {
+            "source": "36.0",
+            "target": "35.0",
+            "id": "81",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "70.0",
+            "target": "69.0",
+            "id": "219",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 4.0
+        },
+        {
+            "source": "43.0",
+            "target": "26.0",
+            "id": "103",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "2.0",
+            "target": "0.0",
+            "id": "1",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 8.0
+        },
+        {
+            "source": "48.0",
+            "target": "11.0",
+            "id": "112",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 1.0
+        },
+        {
+            "source": "36.0",
+            "target": "34.0",
+            "id": "80",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "52.0",
+            "target": "51.0",
+            "id": "120",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "32.0",
+            "target": "11.0",
+            "id": "72",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "69.0",
+            "target": "41.0",
+            "id": "217",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "48.0",
+            "target": "47.0",
+            "id": "109",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "61.0",
+            "target": "59.0",
+            "id": "156",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "73.0",
+            "target": "48.0",
+            "id": "237",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "69.0",
+            "target": "24.0",
+            "id": "214",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "23.0",
+            "target": "12.0",
+            "id": "46",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 2.0
+        },
+        {
+            "source": "14.0",
+            "target": "11.0",
+            "id": "16",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "61.0",
+            "target": "55.0",
+            "id": "158",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 1.0
+        },
+        {
+            "source": "48.0",
+            "target": "27.0",
+            "id": "111",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 1.0
+        },
+        {
+            "source": "63.0",
+            "target": "57.0",
+            "id": "170",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "66.0",
+            "target": "60.0",
+            "id": "203",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "63.0",
+            "target": "58.0",
+            "id": "171",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 4.0
+        },
+        {
+            "source": "58.0",
+            "target": "48.0",
+            "id": "142",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 7.0
+        },
+        {
+            "source": "27.0",
+            "target": "25.0",
+            "id": "59",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 5.0
+        },
+        {
+            "source": "28.0",
+            "target": "11.0",
+            "id": "62",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 8.0
+        },
+        {
+            "source": "76.0",
+            "target": "64.0",
+            "id": "247",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "57.0",
+            "target": "55.0",
+            "id": "138",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 1.0
+        },
+        {
+            "source": "35.0",
+            "target": "11.0",
+            "id": "77",
+            "attributes": {},
+            "color": "rgb(226,113,181)",
+            "size": 3.0
+        },
+        {
+            "source": "11.0",
+            "target": "3.0",
+            "id": "11",
+            "attributes": {},
+            "color": "rgb(99,168,244)",
+            "size": 3.0
+        },
+        {
+            "source": "36.0",
+            "target": "29.0",
+            "id": "83",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 1.0
+        },
+        {
+            "source": "68.0",
+            "target": "24.0",
+            "id": "207",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "37.0",
+            "target": "36.0",
+            "id": "86",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "58.0",
+            "target": "11.0",
+            "id": "145",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 4.0
+        },
+        {
+            "source": "64.0",
+            "target": "61.0",
+            "id": "180",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 6.0
+        },
+        {
+            "source": "23.0",
+            "target": "19.0",
+            "id": "42",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "22.0",
+            "target": "16.0",
+            "id": "33",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "62.0",
+            "target": "48.0",
+            "id": "162",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 7.0
+        },
+        {
+            "source": "70.0",
+            "target": "27.0",
+            "id": "223",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "71.0",
+            "target": "25.0",
+            "id": "233",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "60.0",
+            "target": "59.0",
+            "id": "152",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "71.0",
+            "target": "27.0",
+            "id": "226",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "65.0",
+            "target": "62.0",
+            "id": "188",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "65.0",
+            "target": "58.0",
+            "id": "189",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "76.0",
+            "target": "58.0",
+            "id": "253",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "50.0",
+            "target": "49.0",
+            "id": "115",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "75.0",
+            "target": "70.0",
+            "id": "245",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "38.0",
+            "target": "29.0",
+            "id": "94",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 1.0
+        },
+        {
+            "source": "50.0",
+            "target": "24.0",
+            "id": "116",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "40.0",
+            "target": "25.0",
+            "id": "96",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "65.0",
+            "target": "63.0",
+            "id": "185",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "65.0",
+            "target": "59.0",
+            "id": "192",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "19.0",
+            "target": "18.0",
+            "id": "23",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "64.0",
+            "target": "60.0",
+            "id": "181",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "24.0",
+            "target": "11.0",
+            "id": "49",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 7.0
+        },
+        {
+            "source": "39.0",
+            "target": "25.0",
+            "id": "95",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "42.0",
+            "target": "24.0",
+            "id": "101",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "29.0",
+            "target": "27.0",
+            "id": "65",
+            "attributes": {},
+            "color": "rgb(226,113,181)",
+            "size": 1.0
+        },
+        {
+            "source": "35.0",
+            "target": "29.0",
+            "id": "79",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "70.0",
+            "target": "24.0",
+            "id": "222",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "21.0",
+            "target": "18.0",
+            "id": "30",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "31.0",
+            "target": "30.0",
+            "id": "68",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "33.0",
+            "target": "27.0",
+            "id": "74",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "41.0",
+            "target": "25.0",
+            "id": "98",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 3.0
+        },
+        {
+            "source": "18.0",
+            "target": "16.0",
+            "id": "19",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "65.0",
+            "target": "57.0",
+            "id": "193",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "63.0",
+            "target": "62.0",
+            "id": "169",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 6.0
+        },
+        {
+            "source": "38.0",
+            "target": "36.0",
+            "id": "91",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "63.0",
+            "target": "55.0",
+            "id": "174",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 1.0
+        },
+        {
+            "source": "55.0",
+            "target": "16.0",
+            "id": "132",
+            "attributes": {},
+            "color": "rgb(122,139,173)",
+            "size": 1.0
+        },
+        {
+            "source": "66.0",
+            "target": "62.0",
+            "id": "198",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "71.0",
+            "target": "69.0",
+            "id": "227",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 2.0
+        },
+        {
+            "source": "26.0",
+            "target": "24.0",
+            "id": "53",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 4.0
+        },
+        {
+            "source": "71.0",
+            "target": "11.0",
+            "id": "230",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "22.0",
+            "target": "19.0",
+            "id": "36",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "23.0",
+            "target": "11.0",
+            "id": "47",
+            "attributes": {},
+            "color": "rgb(122,139,173)",
+            "size": 9.0
+        },
+        {
+            "source": "64.0",
+            "target": "55.0",
+            "id": "175",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 5.0
+        },
+        {
+            "source": "29.0",
+            "target": "23.0",
+            "id": "64",
+            "attributes": {},
+            "color": "rgb(150,118,121)",
+            "size": 1.0
+        },
+        {
+            "source": "31.0",
+            "target": "11.0",
+            "id": "69",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 3.0
+        },
+        {
+            "source": "44.0",
+            "target": "28.0",
+            "id": "105",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 3.0
+        },
+        {
+            "source": "11.0",
+            "target": "0.0",
+            "id": "13",
+            "attributes": {},
+            "color": "rgb(99,168,244)",
+            "size": 5.0
+        },
+        {
+            "source": "20.0",
+            "target": "18.0",
+            "id": "26",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "60.0",
+            "target": "58.0",
+            "id": "151",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 4.0
+        },
+        {
+            "source": "3.0",
+            "target": "0.0",
+            "id": "2",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 10.0
+        },
+        {
+            "source": "12.0",
+            "target": "11.0",
+            "id": "14",
+            "attributes": {},
+            "color": "rgb(122,139,173)",
+            "size": 1.0
+        },
+        {
+            "source": "21.0",
+            "target": "17.0",
+            "id": "29",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "47.0",
+            "target": "46.0",
+            "id": "108",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "76.0",
+            "target": "62.0",
+            "id": "251",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "58.0",
+            "target": "27.0",
+            "id": "143",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 6.0
+        },
+        {
+            "source": "69.0",
+            "target": "25.0",
+            "id": "211",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 6.0
+        },
+        {
+            "source": "70.0",
+            "target": "25.0",
+            "id": "218",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 4.0
+        },
+        {
+            "source": "37.0",
+            "target": "29.0",
+            "id": "88",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 1.0
+        },
+        {
+            "source": "55.0",
+            "target": "25.0",
+            "id": "133",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 2.0
+        },
+        {
+            "source": "62.0",
+            "target": "55.0",
+            "id": "159",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 9.0
+        },
+        {
+            "source": "19.0",
+            "target": "17.0",
+            "id": "22",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "44.0",
+            "target": "11.0",
+            "id": "106",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "69.0",
+            "target": "27.0",
+            "id": "215",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 2.0
+        },
+        {
+            "source": "49.0",
+            "target": "11.0",
+            "id": "114",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "21.0",
+            "target": "20.0",
+            "id": "32",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 5.0
+        },
+        {
+            "source": "76.0",
+            "target": "65.0",
+            "id": "248",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "56.0",
+            "target": "49.0",
+            "id": "136",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "52.0",
+            "target": "39.0",
+            "id": "121",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "70.0",
+            "target": "11.0",
+            "id": "221",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "27.0",
+            "target": "24.0",
+            "id": "60",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "26.0",
+            "target": "25.0",
+            "id": "56",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "72.0",
+            "target": "26.0",
+            "id": "234",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "76.0",
+            "target": "66.0",
+            "id": "249",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "48.0",
+            "target": "25.0",
+            "id": "110",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "71.0",
+            "target": "48.0",
+            "id": "231",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "66.0",
+            "target": "59.0",
+            "id": "197",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "57.0",
+            "target": "41.0",
+            "id": "139",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "25.0",
+            "target": "23.0",
+            "id": "51",
+            "attributes": {},
+            "color": "rgb(140,139,67)",
+            "size": 1.0
+        },
+        {
+            "source": "38.0",
+            "target": "35.0",
+            "id": "90",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "43.0",
+            "target": "27.0",
+            "id": "104",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "55.0",
+            "target": "49.0",
+            "id": "127",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 12.0
+        },
+        {
+            "source": "38.0",
+            "target": "11.0",
+            "id": "93",
+            "attributes": {},
+            "color": "rgb(226,113,181)",
+            "size": 2.0
+        },
+        {
+            "source": "74.0",
+            "target": "48.0",
+            "id": "238",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "64.0",
+            "target": "57.0",
+            "id": "183",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "35.0",
+            "target": "34.0",
+            "id": "78",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 3.0
+        },
+        {
+            "source": "23.0",
+            "target": "16.0",
+            "id": "39",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "58.0",
+            "target": "57.0",
+            "id": "144",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "38.0",
+            "target": "37.0",
+            "id": "92",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "54.0",
+            "target": "26.0",
+            "id": "125",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "23.0",
+            "target": "18.0",
+            "id": "41",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "55.0",
+            "target": "26.0",
+            "id": "130",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 21.0
+        },
+        {
+            "source": "36.0",
+            "target": "11.0",
+            "id": "82",
+            "attributes": {},
+            "color": "rgb(226,113,181)",
+            "size": 2.0
+        },
+        {
+            "source": "66.0",
+            "target": "61.0",
+            "id": "202",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "30.0",
+            "target": "23.0",
+            "id": "67",
+            "attributes": {},
+            "color": "rgb(122,139,173)",
+            "size": 1.0
+        },
+        {
+            "source": "38.0",
+            "target": "34.0",
+            "id": "89",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "31.0",
+            "target": "27.0",
+            "id": "71",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "66.0",
+            "target": "58.0",
+            "id": "196",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 3.0
+        },
+        {
+            "source": "20.0",
+            "target": "19.0",
+            "id": "27",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "75.0",
+            "target": "69.0",
+            "id": "240",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 3.0
+        },
+        {
+            "source": "51.0",
+            "target": "49.0",
+            "id": "117",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 9.0
+        },
+        {
+            "source": "62.0",
+            "target": "61.0",
+            "id": "165",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 6.0
+        },
+        {
+            "source": "59.0",
+            "target": "58.0",
+            "id": "146",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 15.0
+        },
+        {
+            "source": "76.0",
+            "target": "63.0",
+            "id": "250",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "64.0",
+            "target": "62.0",
+            "id": "176",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 12.0
+        },
+        {
+            "source": "67.0",
+            "target": "57.0",
+            "id": "204",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 3.0
+        },
+        {
+            "source": "71.0",
+            "target": "68.0",
+            "id": "228",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 2.0
+        },
+        {
+            "source": "42.0",
+            "target": "25.0",
+            "id": "100",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 2.0
+        },
+        {
+            "source": "65.0",
+            "target": "64.0",
+            "id": "186",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 7.0
+        },
+        {
+            "source": "22.0",
+            "target": "18.0",
+            "id": "35",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "76.0",
+            "target": "48.0",
+            "id": "252",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "28.0",
+            "target": "27.0",
+            "id": "63",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "71.0",
+            "target": "41.0",
+            "id": "232",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "25.0",
+            "target": "11.0",
+            "id": "52",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 12.0
+        },
+        {
+            "source": "21.0",
+            "target": "16.0",
+            "id": "28",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "68.0",
+            "target": "48.0",
+            "id": "209",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "72.0",
+            "target": "11.0",
+            "id": "236",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "56.0",
+            "target": "55.0",
+            "id": "137",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "65.0",
+            "target": "60.0",
+            "id": "191",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "18.0",
+            "target": "17.0",
+            "id": "20",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "62.0",
+            "target": "58.0",
+            "id": "160",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 17.0
+        },
+        {
+            "source": "55.0",
+            "target": "48.0",
+            "id": "135",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 4.0
+        },
+        {
+            "source": "62.0",
+            "target": "60.0",
+            "id": "166",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 3.0
+        },
+        {
+            "source": "59.0",
+            "target": "48.0",
+            "id": "148",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 6.0
+        },
+        {
+            "source": "69.0",
+            "target": "68.0",
+            "id": "212",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 6.0
+        },
+        {
+            "source": "11.0",
+            "target": "2.0",
+            "id": "12",
+            "attributes": {},
+            "color": "rgb(99,168,244)",
+            "size": 3.0
+        },
+        {
+            "source": "26.0",
+            "target": "16.0",
+            "id": "55",
+            "attributes": {},
+            "color": "rgb(122,139,173)",
+            "size": 1.0
+        },
+        {
+            "source": "64.0",
+            "target": "59.0",
+            "id": "182",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 9.0
+        },
+        {
+            "source": "49.0",
+            "target": "26.0",
+            "id": "113",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 3.0
+        },
+        {
+            "source": "58.0",
+            "target": "55.0",
+            "id": "141",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 7.0
+        },
+        {
+            "source": "63.0",
+            "target": "61.0",
+            "id": "172",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 3.0
+        },
+        {
+            "source": "65.0",
+            "target": "61.0",
+            "id": "190",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "74.0",
+            "target": "73.0",
+            "id": "239",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 3.0
+        },
+        {
+            "source": "66.0",
+            "target": "48.0",
+            "id": "200",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "72.0",
+            "target": "27.0",
+            "id": "235",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "5.0",
+            "target": "0.0",
+            "id": "5",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 1.0
+        },
+        {
+            "source": "43.0",
+            "target": "11.0",
+            "id": "102",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 3.0
+        },
+        {
+            "source": "34.0",
+            "target": "29.0",
+            "id": "76",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "37.0",
+            "target": "34.0",
+            "id": "84",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "45.0",
+            "target": "28.0",
+            "id": "107",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "55.0",
+            "target": "41.0",
+            "id": "134",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 5.0
+        },
+        {
+            "source": "75.0",
+            "target": "25.0",
+            "id": "242",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 3.0
+        },
+        {
+            "source": "8.0",
+            "target": "0.0",
+            "id": "8",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 2.0
+        },
+        {
+            "source": "23.0",
+            "target": "21.0",
+            "id": "44",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "37.0",
+            "target": "35.0",
+            "id": "85",
+            "attributes": {},
+            "color": "rgb(255,92,129)",
+            "size": 2.0
+        },
+        {
+            "source": "64.0",
+            "target": "48.0",
+            "id": "177",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "65.0",
+            "target": "55.0",
+            "id": "194",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 2.0
+        },
+        {
+            "source": "22.0",
+            "target": "17.0",
+            "id": "34",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "63.0",
+            "target": "48.0",
+            "id": "168",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "62.0",
+            "target": "41.0",
+            "id": "164",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "63.0",
+            "target": "59.0",
+            "id": "167",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 5.0
+        },
+        {
+            "source": "55.0",
+            "target": "51.0",
+            "id": "126",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 6.0
+        },
+        {
+            "source": "69.0",
+            "target": "11.0",
+            "id": "213",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "70.0",
+            "target": "58.0",
+            "id": "225",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "51.0",
+            "target": "11.0",
+            "id": "119",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "57.0",
+            "target": "48.0",
+            "id": "140",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "70.0",
+            "target": "41.0",
+            "id": "224",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 1.0
+        },
+        {
+            "source": "25.0",
+            "target": "24.0",
+            "id": "50",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 13.0
+        },
+        {
+            "source": "20.0",
+            "target": "17.0",
+            "id": "25",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "75.0",
+            "target": "48.0",
+            "id": "243",
+            "attributes": {},
+            "color": "rgb(164,166,20)",
+            "size": 1.0
+        },
+        {
+            "source": "64.0",
+            "target": "11.0",
+            "id": "184",
+            "attributes": {},
+            "color": "rgb(146,166,126)",
+            "size": 1.0
+        },
+        {
+            "source": "33.0",
+            "target": "11.0",
+            "id": "73",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "29.0",
+            "target": "11.0",
+            "id": "66",
+            "attributes": {},
+            "color": "rgb(226,113,181)",
+            "size": 2.0
+        },
+        {
+            "source": "62.0",
+            "target": "57.0",
+            "id": "163",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        },
+        {
+            "source": "68.0",
+            "target": "11.0",
+            "id": "206",
+            "attributes": {},
+            "color": "rgb(216,134,127)",
+            "size": 1.0
+        },
+        {
+            "source": "51.0",
+            "target": "26.0",
+            "id": "118",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "22.0",
+            "target": "20.0",
+            "id": "37",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "54.0",
+            "target": "49.0",
+            "id": "124",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "66.0",
+            "target": "63.0",
+            "id": "201",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 1.0
+        },
+        {
+            "source": "27.0",
+            "target": "26.0",
+            "id": "61",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "64.0",
+            "target": "63.0",
+            "id": "178",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 4.0
+        },
+        {
+            "source": "1.0",
+            "target": "0.0",
+            "id": "0",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 1.0
+        },
+        {
+            "source": "54.0",
+            "target": "51.0",
+            "id": "123",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 2.0
+        },
+        {
+            "source": "41.0",
+            "target": "24.0",
+            "id": "97",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 2.0
+        },
+        {
+            "source": "3.0",
+            "target": "2.0",
+            "id": "3",
+            "attributes": {},
+            "color": "rgb(0,202,255)",
+            "size": 6.0
+        },
+        {
+            "source": "42.0",
+            "target": "41.0",
+            "id": "99",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 2.0
+        },
+        {
+            "source": "23.0",
+            "target": "22.0",
+            "id": "45",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 4.0
+        },
+        {
+            "source": "20.0",
+            "target": "16.0",
+            "id": "24",
+            "attributes": {},
+            "color": "rgb(46,144,114)",
+            "size": 3.0
+        },
+        {
+            "source": "13.0",
+            "target": "11.0",
+            "id": "15",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "26.0",
+            "target": "11.0",
+            "id": "54",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 31.0
+        },
+        {
+            "source": "64.0",
+            "target": "58.0",
+            "id": "179",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 10.0
+        },
+        {
+            "source": "24.0",
+            "target": "23.0",
+            "id": "48",
+            "attributes": {},
+            "color": "rgb(140,139,67)",
+            "size": 2.0
+        },
+        {
+            "source": "55.0",
+            "target": "39.0",
+            "id": "128",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "70.0",
+            "target": "68.0",
+            "id": "220",
+            "attributes": {},
+            "color": "rgb(234,134,21)",
+            "size": 4.0
+        },
+        {
+            "source": "53.0",
+            "target": "51.0",
+            "id": "122",
+            "attributes": {},
+            "color": "rgb(198,134,233)",
+            "size": 1.0
+        },
+        {
+            "source": "61.0",
+            "target": "60.0",
+            "id": "155",
+            "attributes": {},
+            "color": "rgb(95,198,19)",
+            "size": 2.0
+        }
+    ]
+}

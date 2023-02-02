@@ -1,0 +1,56 @@
+CS529 Fall 2022 Project
+Berat Bicer & Vahid Namakshenas
+
+##############################################
+
+Raw database is too large to upload anywhere online, so we share a filtered version containing network connections & tweets of each account. The raw graph without any disconnected node-removal is under:
+
+/berat/database/graph/graph_filtering
+
+whereas the filtered graph, alongside gephi files for an overview, are under: 
+
+/berat/database/graph
+
+==============================================
+
+NLP features (doc2vec & word2vec) are under: 
+
+/berat/database/features
+
+Actual models that extract these features aren't shared since they are very large.
+
+==============================================
+
+Neighbour embedding and relevant code, as well as features extracted for classification (binary encoding string) are located in:
+
+/berat/neighbour_embedding
+
+Text file 'results' in this directory shows the performance of best models working on neighbour embedding.
+
+==============================================
+
+Under:
+
+/berat/nlp
+
+You will find the relevant code for NLP section. The features extracted under:
+
+/berat/database/features
+
+are used here.
+
+==============================================
+
+Under:
+
+/deliverables
+
+You'll find every submission we did this semester (proposal, presentation, etc.) as well as the final report. The final report file is named 'final_report-berat_bicer-vahid_namakshenas.pdf'. If you wish the LaTeX source for this, let us know.
+
+==============================================
+
+Under:
+
+/vahid
+
+You'll find the material Vahid prepared alongside relevant results.

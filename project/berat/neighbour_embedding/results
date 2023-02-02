@@ -1,0 +1,37 @@
+# RFC: n_estimators=100, criterion=gini, max_depth=3,            min_impurity_decrease=1e-08, class_weight="balanced"
+# Accuracy: 0.5833
+
+#SVM: C=0.5, kernel=sigmoid, degree=3
+# Accuracy: 0.6667
+
+# NN
+'''
+[34] T.L.: 0.0096
+[34] V.L.: 0.0115
+[34] T.L.: 0.0111, Acc: 0.6556
+[34] CWA --> Real: 0.9833, Bot: 0.0000
+'''
+
+# ne_labelfreq_weightedacc.py 
+'''
+Threshold: 0.00028946, Weighted_Acc: 0.410, Acc: 0.474
+Class acc --> real(0): 0.538, bot(1): 0.346
+'''
+
+# ne_sumlabels_weightedacc.py
+'''
+Threshold: 0.00004967, Weighted_Acc: 0.410, Acc: 0.474
+Class acc --> real(0): 0.538, bot(1): 0.346
+'''
+
+# ne_weightedacc.py
+'''
+Threshold: 0.00018575, Weighted_Acc: 0.332, Acc: 0.667
+Class acc --> real(0): 0.999, bot(1): 0.000
+'''
+
+# ne.py
+'''
+Threshold: 0.70016684, Acc: 0.667
+Class acc --> real(0): 0.999, bot(1): 0.000
+'''
